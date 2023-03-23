@@ -1,2 +1,2 @@
 # BootCamp-Classwork
- BootCamp challneges
+This specific challenge is the excel-challenge consisting of the crowdfunding campaigns.
