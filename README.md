@@ -1,2 +1,2 @@
 # BootCamp-Classwork
- BootCamp challneges
+Contained within this repository is my bootcamp challenges.
